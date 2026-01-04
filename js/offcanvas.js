@@ -88,6 +88,48 @@ const projects = {
         technologies: ["Shopify", "jQuery", "Bootstrap", "Cloudfare", "Google Hosted Libraries", "cdnjs", "Modernizr", "Facebook Pixel"],
         image: "images/work-section/happydotbox.png",
         link: "https://happydotbox.com"
+    },
+    7: {
+        title: "Luv N' Popcorn",
+        role: "Front-End Developer",
+        responsibilities: [
+            "Customized Shopify templates to align with brand identity and improve product visibility.",
+            "Integrated Facebook Pixel and analytics tools for conversion tracking and ad optimization.",
+            "Utilized jQuery and Bootstrap to build interactive product displays and responsive layouts.",
+            "Enhanced site security and performance through Cloudflare CDN and optimized hosted libraries.",
+            "Implemented Modernizr to maintain consistent functionality across various browsers."
+        ],
+        technologies: ["Weebly", "Square Online", "Vue.js", "Core.js", "Google Cloudflare", "PHP", "MYSQL", "PWA", "Open Graph", "Adtriba", "VideoJS", "Snowplow Analytics", "Datadog", "Exit Bee", "AdRoll", "Afterpay", "Giosg", "Amazon Web Services"],
+        image: "images/work-section/lovnpopcorn.png",
+        link: "https://www.luvnpopcorn.com/"
+    },
+    8: {
+        title: "Never Underestimate Brand",
+        role: "Full-Stack Developer",
+        responsibilities: [
+            "Customized Shopify templates to align with brand identity and improve product visibility.",
+            "Integrated Facebook Pixel and analytics tools for conversion tracking and ad optimization.",
+            "Utilized jQuery and Bootstrap to build interactive product displays and responsive layouts.",
+            "Enhanced site security and performance through Cloudflare CDN and optimized hosted libraries.",
+            "Implemented Modernizr to maintain consistent functionality across various browsers."
+        ],
+        technologies: ["HTML", "CSS", "JavaScript", "Polaris", "Shopify", "Ruby on Rails", "PHP", "MySQL", "Modular Monolith", "React", "Kubernetes", "Nginx", "Google Cloud Platform", "ShipIt"],
+        image: "images/work-section/nubrand.png",
+        link: "https://neverunderstimatebrandclothing.com"
+    },
+    9: {
+        title: "The Gee Designs",
+        role: "Full-Stack Developer",
+        responsibilities: [
+            "Customized Shopify templates to align with brand identity and improve product visibility.",
+            "Integrated Facebook Pixel and analytics tools for conversion tracking and ad optimization.",
+            "Utilized jQuery and Bootstrap to build interactive product displays and responsive layouts.",
+            "Enhanced site security and performance through Cloudflare CDN and optimized hosted libraries.",
+            "Implemented Modernizr to maintain consistent functionality across various browsers."
+        ],
+        technologies: ["HTML", "CSS", "JavaScript", "PHP", "jQuery", "Bootstrap", "Cloudfare", "MYSQL", "cdnjs", "Font Awesome"],
+        image: "images/work-section/thegeedesigns.png",
+        link: "https://thegeedesigns.com"
     }
 };
 
