@@ -124,7 +124,7 @@ const translations = {
         footer: {
             heading: "Let's Connect",
             subtitle: "Building the future, one project at a time",
-            copyright: "© Brandon D. Vernon. 2025. All Rights Reserved."
+            copyright: "© Brandon D. Vernon. 2026. All Rights Reserved."
         }
     },
     es: {
@@ -246,7 +246,7 @@ const translations = {
         footer: {
             heading: "Conectemos",
             subtitle: "Construyendo el futuro, un proyecto a la vez",
-            copyright: "© Brandon D. Vernon. 2025. Todos los derechos reservados."
+            copyright: "© Brandon D. Vernon. 2026. Todos los derechos reservados."
         }
     },
     fr: {
@@ -368,7 +368,7 @@ const translations = {
         footer: {
             heading: "Connectons-nous",
             subtitle: "Construire l'avenir, un projet à la fois",
-            copyright: "© Brandon D. Vernon. 2025. Tous droits réservés."
+            copyright: "© Brandon D. Vernon. 2026. Tous droits réservés."
         }
     },
     de: {
@@ -490,7 +490,7 @@ const translations = {
         footer: {
             heading: "Lass uns verbinden",
             subtitle: "Die Zukunft bauen, ein Projekt nach dem anderen",
-            copyright: "© Brandon D. Vernon. 2025. Alle Rechte vorbehalten."
+            copyright: "© Brandon D. Vernon. 2026. Alle Rechte vorbehalten."
         }
     },
     it: {
@@ -612,7 +612,7 @@ const translations = {
         footer: {
             heading: "Connettiamoci",
             subtitle: "Costruire il futuro, un progetto alla volta",
-            copyright: "© Brandon D. Vernon. 2025. Tutti i diritti riservati."
+            copyright: "© Brandon D. Vernon. 2026. Tutti i diritti riservati."
         }
     },
     pt: {
@@ -734,7 +734,7 @@ const translations = {
         footer: {
             heading: "Vamos nos Conectar",
             subtitle: "Construindo o futuro, um projeto de cada vez",
-            copyright: "© Brandon D. Vernon. 2025. Todos os direitos reservados."
+            copyright: "© Brandon D. Vernon. 2026. Todos os direitos reservados."
         }
     },
     ru: {
@@ -856,7 +856,7 @@ const translations = {
         footer: {
             heading: "Давай свяжемся",
             subtitle: "Строим будущее, один проект за раз",
-            copyright: "© Брэндон Д. Вернон. 2025. Все права защищены."
+            copyright: "© Брэндон Д. Вернон. 2026. Все права защищены."
         }
     },
     ja: {
@@ -978,7 +978,7 @@ const translations = {
         footer: {
             heading: "つながりましょう",
             subtitle: "一つのプロジェクトで未来を築く",
-            copyright: "© ブランドン・D・バーノン。2025。すべての権利を保有。"
+            copyright: "© ブランドン・D・バーノン。2026。すべての権利を保有。"
         }
     },
     ko: {
@@ -1100,7 +1100,7 @@ const translations = {
         footer: {
             heading: "연결합시다",
             subtitle: "한 번에 하나의 프로젝트로 미래를 구축",
-            copyright: "© 브랜든 D. 버논. 2025. 모든 권리 보유."
+            copyright: "© 브랜든 D. 버논. 2026. 모든 권리 보유."
         }
     },
     zh: {
@@ -1222,7 +1222,7 @@ const translations = {
         footer: {
             heading: "让我们联系",
             subtitle: "一次一个项目，构建未来",
-            copyright: "© 布兰登·D·弗农。2025。保留所有权利。"
+            copyright: "© 布兰登·D·弗农。2026。保留所有权利。"
         }
     },
     af: {
@@ -1344,7 +1344,7 @@ const translations = {
         footer: {
             heading: "Kom Ons Verbind",
             subtitle: "Die bou van die toekoms, een projek op 'n slag",
-            copyright: "© Brandon D. Vernon. 2025. Alle regte voorbehou."
+            copyright: "© Brandon D. Vernon. 2026. Alle regte voorbehou."
         }
     },
     he: {
@@ -1466,7 +1466,7 @@ const translations = {
         footer: {
             heading: "בוא נתחבר",
             subtitle: "בניית העתיד, פרויקט אחד בכל פעם",
-            copyright: "© ברנדון ד. ורנון. 2025. כל הזכויות שמורות."
+            copyright: "© ברנדון ד. ורנון. 2026. כל הזכויות שמורות."
         }
     }
 
