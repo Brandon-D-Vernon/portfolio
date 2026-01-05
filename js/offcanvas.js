@@ -93,11 +93,11 @@ const projects = {
         title: "Luv N' Popcorn",
         role: "Front-End Developer",
         responsibilities: [
-            "Customized Shopify templates to align with brand identity and improve product visibility.",
-            "Integrated Facebook Pixel and analytics tools for conversion tracking and ad optimization.",
-            "Utilized jQuery and Bootstrap to build interactive product displays and responsive layouts.",
-            "Enhanced site security and performance through Cloudflare CDN and optimized hosted libraries.",
-            "Implemented Modernizr to maintain consistent functionality across various browsers."
+            "Developed and customized a responsive front-end storefront using Weebly and Square Online.",
+            "Implemented Vue.js components and Core.js polyfills to enhance interactivity and browser compatibility.",
+            "Integrated Progressive Web App (PWA) features to improve mobile performance and user engagement.",
+            "Connected multiple marketing, analytics, and tracking platforms (Snowplow, AdRoll, Datadog, Adtriba) for performance and conversion insights.",
+            "Optimized media delivery and site speed using Cloudflare CDN, AWS infrastructure, and VideoJS."
         ],
         technologies: ["Weebly", "Square Online", "Vue.js", "Core.js", "Google Cloudflare", "PHP", "MYSQL", "PWA", "Open Graph", "Adtriba", "VideoJS", "Snowplow Analytics", "Datadog", "Exit Bee", "AdRoll", "Afterpay", "Giosg", "Amazon Web Services"],
         image: "images/work-section/lovnpopcorn.png",
@@ -107,11 +107,11 @@ const projects = {
         title: "Never Underestimate Brand",
         role: "Full-Stack Developer",
         responsibilities: [
-            "Customized Shopify templates to align with brand identity and improve product visibility.",
-            "Integrated Facebook Pixel and analytics tools for conversion tracking and ad optimization.",
-            "Utilized jQuery and Bootstrap to build interactive product displays and responsive layouts.",
-            "Enhanced site security and performance through Cloudflare CDN and optimized hosted libraries.",
-            "Implemented Modernizr to maintain consistent functionality across various browsers."
+            "Engineered a scalable full-stack eCommerce platform leveraging Shopify and custom back-end services.",
+            "Built modular front-end interfaces using React and Shopify Polaris for consistent UI/UX.",
+            "Developed and maintained server-side logic using Ruby on Rails and PHP within a modular monolith architecture.",
+            "Deployed and managed application infrastructure using Kubernetes, Nginx, and Google Cloud Platform.",
+            "Implemented CI/CD workflows with ShipIt to streamline deployments and ensure application stability."
         ],
         technologies: ["HTML", "CSS", "JavaScript", "Polaris", "Shopify", "Ruby on Rails", "PHP", "MySQL", "Modular Monolith", "React", "Kubernetes", "Nginx", "Google Cloud Platform", "ShipIt"],
         image: "images/work-section/nubrand.png",
@@ -121,11 +121,12 @@ const projects = {
         title: "The Gee Designs",
         role: "Full-Stack Developer",
         responsibilities: [
-            "Customized Shopify templates to align with brand identity and improve product visibility.",
-            "Integrated Facebook Pixel and analytics tools for conversion tracking and ad optimization.",
-            "Utilized jQuery and Bootstrap to build interactive product displays and responsive layouts.",
-            "Enhanced site security and performance through Cloudflare CDN and optimized hosted libraries.",
-            "Implemented Modernizr to maintain consistent functionality across various browsers."
+            "Designed and developed a custom full-stack website to showcase branding and design services.",
+            "Built responsive layouts and UI components using Bootstrap and Font Awesome.",
+            "Implemented dynamic front-end functionality with JavaScript and jQuery.",
+            "Developed PHP-based back-end features connected to MySQL for content handling and form processing.",
+            "Optimized performance and security using Cloudflare CDN and externally hosted libraries via cdnjs."
+
         ],
         technologies: ["HTML", "CSS", "JavaScript", "PHP", "jQuery", "Bootstrap", "Cloudfare", "MYSQL", "cdnjs", "Font Awesome"],
         image: "images/work-section/thegeedesigns.png",
