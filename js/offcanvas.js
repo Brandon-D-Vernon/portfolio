@@ -6,6 +6,48 @@
 // Project data
 const projects = {
     1: {
+        title: "K&H Internal Moving Services",
+        role: "Front-End Engineer, SEO Specialist",
+        responsibilities: [
+            "Designed and customized a professional Google Sites website to establish a strong online presence for the moving company.",
+            "Organized service information and page layouts to make moving options easy for customers to understand.",
+            "Created responsive page sections and navigation optimized for desktop, tablet, and mobile users.",
+            "Integrated contact and inquiry features to make it easier for potential customers to request moving services.",
+            "Optimized website content, headings, and page structure to improve local search visibility and customer engagement."
+        ],
+        technologies: ["Google Site", "Google Font API", "Open Graph", "Google Maps", "Marked", "Closure Library", "lit-html", "lit-element", "Google analytics"],
+        image: "images/work-section/khinternalmovingservices.png",
+        link: "https://www.khinternalmovingservices.com"
+    },
+    2: {
+        title: "Californian Southwest Jurisdiction (CSJ)",
+        role: "Front-End Engineer, SEO Specialist", 
+        responsibilities: [
+            "Designed a structured Google Sites website to centralize convention information, schedules, and important announcements.",
+            "Developed an intuitive navigation system allowing visitors to quickly access event details and resources.",
+            "Created visually engaging page layouts to present convention programs, speakers, dates, and organizational information.",
+            "Embedded digital resources and external links to provide attendees with convenient access to registration and event materials.",
+            "Tested the website across Google Chrome and multiple screen sizes to ensure consistent usability and presentation."
+        ],
+        technologies: ["Google Site", "Google Font API", "Open Graph", "Closure Library", "lit-html", "lit-element", "Google analytics"],
+        image: "images/work-section/csjaim.png",
+        link: "https://www.csjaim.org"
+    },
+    3: {
+        title: "Divinity Financial",
+        role: "Front-End Engineer, SEO Specialist",
+        responsibilities: [
+            "Built a polished Google Sites website designed to present financial services in a clear and professional format.",
+            "Structured service pages and informational content to help visitors understand available financial solutions.",
+            "Created branded visual sections that strengthened the company’s credibility and professional identity.",
+            "Implemented clear calls to action and contact pathways to encourage prospective clients to initiate inquiries.",
+            "Refined page content, spacing, navigation, and mobile layouts to create a smooth and user friendly browsing experience."
+        ],
+        technologies: ["Google Site", "Google Font API", "Open Graph", "Google Maps", "Google Tag Manager", "Marked", "Closure Library", "lit-html", "lit-element", "Google analytics"],
+        image: "images/work-section/divinityfinancial.png",
+        link: "https://www.divinityfinancialservices.com"
+    },
+    4: {
         title: "Home Garden 101",
         role: "Full-Stack Developer",
         responsibilities: [
@@ -19,7 +61,7 @@ const projects = {
         image: "images/work-section/homegarden101.png",
         link: "https://homegardenone01.com"
     },
-    2: {
+    5: {
         title: "Spektrum Magazine",
         role: "Full-Stack Developer, SEO Specialist",
         responsibilities: [
@@ -33,7 +75,7 @@ const projects = {
         image: "images/work-section/spektrummagazine.jpg",
         link: "http://www.spektrummagazine.com"
     },
-    3: {
+    6: {
         title: "Butter Bakery",
         role: "Front-End Developer, SEO Specialist",
         responsibilities: [
@@ -47,7 +89,7 @@ const projects = {
         image: "images/work-section/butterbackery.png",
         link: "https://butterbakery.life"
     },
-    4: {
+    7: {
         title: "Advantage Video System",
         role: "Full-Stack Developer, SEO Specialist",
         responsibilities: [
@@ -61,7 +103,7 @@ const projects = {
         image: "images/work-section/advantagevideosystem.png",
         link: "https://advantagevideosystems.com"
     },
-    5: {
+    8: {
         title: "iLead-Worldwide",
         role: "Front-End Developer, SEO Specialist",
         responsibilities: [
@@ -75,7 +117,7 @@ const projects = {
         image: "images/work-section/ileadworldwide.png",
         link: "https://www.ilead-worldwide.com/"
     },
-    6: {
+    9: {
         title: "Happy Dot Box",
         role: "Front-End Developer",
         responsibilities: [
@@ -89,7 +131,7 @@ const projects = {
         image: "images/work-section/happydotbox.png",
         link: "https://happydotbox.com"
     },
-    7: {
+    10: {
         title: "Luv N' Popcorn",
         role: "Front-End Developer",
         responsibilities: [
@@ -103,7 +145,7 @@ const projects = {
         image: "images/work-section/lovnpopcorn.png",
         link: "https://www.luvnpopcorn.com/"
     },
-    8: {
+    11: {
         title: "Never Underestimate Brand",
         role: "Full-Stack Developer",
         responsibilities: [
@@ -117,7 +159,7 @@ const projects = {
         image: "images/work-section/nubrand.png",
         link: "https://neverunderstimatebrandclothing.com"
     },
-    9: {
+    12: {
         title: "The Gee Designs",
         role: "Full-Stack Developer",
         responsibilities: [

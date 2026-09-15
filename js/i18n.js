@@ -28,28 +28,52 @@ const translations = {
             title: "My Work",
             subtitle: "A showcase of my recent projects",
             project1: {
+                title: "K&H Internal Moving Services",
+                description: "Moving Services"
+            },
+            project2: {
+                title: "Californian Southwest Jurisdiction (CSJ)",
+                description: "Auxiliaries In Ministry (AIM) Convention"
+            },
+            project3: {
+                title: "Divinity Financial",
+                description: "Financial Agency"
+            },
+            project4: {
                 title: "Home Garden 101",
                 description: "Landscaping and Outdoors Service"
             },
-            project2: {
+            project5: {
                 title: "Spektrum Magazine",
                 description: "Lifestyle and Culture Magazine"
             },
-            project3: {
+            project6: {
                 title: "Butter Bakery",
                 description: "Home Made Bakery"
             },
-            project4: {
+            project7: {
                 title: "Advantage Video System",
                 description: "Product and Information"
             },
-            project5: {
+            project8: {
                 title: "iLead-Worldwide",
                 description: "Marketing Agency"
             },
-            project6: {
+            project9: {
                 title: "Happy Dot Box",
                 description: "Luxury Beauty Products"
+            },
+            project10: {
+                title: "Love N' Popcorn",
+                description: "Home Made Popcorn"
+            },
+            project11: {
+                title: "Never Underestimate Brand",
+                description: "Clothing Apparel Store"
+            },
+            project12: {
+                title: "The Gee Designs",
+                description: "Videographer Portfolio"
             },
             detail: {
                 role: "Role",
@@ -150,28 +174,52 @@ const translations = {
             title: "Mi Trabajo",
             subtitle: "Una muestra de mis proyectos recientes",
             project1: {
-                title: "Jardín en Casa 101",
-                description: "Servicio de Paisajismo y Exteriores"
+                title: "K&H Internal Moving Services",
+                description: "Servicios de Mudanza"
             },
             project2: {
-                title: "Revista Spektrum",
-                description: "Revista de Estilo de Vida y Cultura"
+                title: "Californian Southwest Jurisdiction (CSJ)",
+                description: "Convención de Auxiliares en el Ministerio (AIM)"
             },
             project3: {
-                title: "Panadería Butter",
-                description: "Panadería Casera"
+                title: "Divinity Financial",
+                description: "Agencia Financiera"
             },
             project4: {
-                title: "Sistema de Video Advantage",
-                description: "Producto e Información"
+                title: "Home Garden 101",
+                description: "Servicios de Paisajismo y Exteriores"
             },
             project5: {
+                title: "Spektrum Magazine",
+                description: "Revista de Estilo de Vida y Cultura"
+            },
+            project6: {
+                title: "Butter Bakery",
+                description: "Panadería Casera"
+            },
+            project7: {
+                title: "Advantage Video System",
+                description: "Productos e Información"
+            },
+            project8: {
                 title: "iLead-Worldwide",
                 description: "Agencia de Marketing"
             },
-            project6: {
-                title: "Caja de Puntos Felices",
+            project9: {
+                title: "Happy Dot Box",
                 description: "Productos de Belleza de Lujo"
+            },
+            project10: {
+                title: "Love N' Popcorn",
+                description: "Palomitas de Maíz Caseras"
+            },
+            project11: {
+                title: "Never Underestimate Brand",
+                description: "Tienda de Ropa y Prendas"
+            },
+            project12: {
+                title: "The Gee Designs",
+                description: "Portafolio de Videógrafo"
             },
             detail: {
                 role: "Rol",
@@ -269,31 +317,55 @@ const translations = {
             description: "Je m'appelle Brandon, un développeur web full-stack qui vit selon la devise « Transformez vos rêves en réalité avec le code ». Mon parcours a commencé à The Art Institute of California – North Hollywood, où j'ai obtenu mon diplôme en design web et médias interactifs. Ce qui a débuté comme un intérêt pour l'art et la technologie s'est transformé en une passion pour créer des expériences numériques qui allient créativité et fonctionnalité. Guidé par une inspiration supérieure, j'aborde chaque projet avec compréhension, adaptabilité et une volonté d'aller au-delà. Pour moi, le code n'est pas seulement logique, c'est une toile où l'imagination rencontre l'objectif."
         },
         work: {
-            title: "Mon travail",
-            subtitle: "Une vitrine de mes projets récents",
+            title: "Mon Travail",
+            subtitle: "Une sélection de mes projets récents",
             project1: {
-                title: "Jardin à la maison 101",
-                description: "Service d'aménagement paysager et d'extérieur"
+            title: "K&H Internal Moving Services",
+            description: "Services de Déménagement"
             },
             project2: {
-                title: "Magazine Spektrum",
-                description: "Magazine de style de vie et de culture"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "Convention des Auxiliaires du Ministère (AIM)"
             },
             project3: {
-                title: "Boulangerie Butter",
-                description: "Boulangerie artisanale"
+            title: "Divinity Financial",
+            description: "Agence Financière"
             },
             project4: {
-                title: "Système Vidéo Advantage",
-                description: "Produit et information"
+            title: "Home Garden 101",
+            description: "Services d'Aménagement Paysager et Extérieur"
             },
             project5: {
-                title: "iLead-Worldwide",
-                description: "Agence de marketing"
+            title: "Spektrum Magazine",
+            description: "Magazine sur le Mode de Vie et la Culture"
             },
             project6: {
-                title: "Boîte à Points Heureux",
-                description: "Produits de beauté de luxe"
+            title: "Butter Bakery",
+            description: "Boulangerie Artisanale à Domicile"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "Produits et Informations"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "Agence de Marketing"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "Produits de Beauté de Luxe"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "Popcorn Fait Maison"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "Boutique de Vêtements"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "Portfolio de Vidéaste"
             },
             detail: {
                 role: "Rôle",
@@ -391,31 +463,55 @@ const translations = {
             description: "Ich bin Brandon, ein Full-Stack-Webentwickler, der nach dem Motto lebt: „Träume in Code verwandeln.“ Meine Reise begann am Art Institute of California – North Hollywood, wo ich meinen Bachelor-Abschluss in Webdesign und interaktiven Medien erwarb. Was als Interesse an Kunst und Technologie begann, entwickelte sich zu einer Leidenschaft für die Schaffung digitaler Erlebnisse, die Kreativität mit Funktionalität verbinden. Geleitet von einer höheren Eingebung, gehe ich jedes Projekt mit Verständnis, Anpassungsfähigkeit und dem Drang an, das Extra zu leisten. Für mich ist Code nicht nur Logik, sondern eine Leinwand, auf der Vorstellungskraft und Zweck aufeinandertreffen."
         },
         work: {
-            title: "Meine Arbeiten",
+            title: "Meine Arbeit",
             subtitle: "Eine Auswahl meiner aktuellen Projekte",
             project1: {
-                title: "Heimgarten 101",
-                description: "Landschaftsgestaltung und Außendienst"
+            title: "K&H Internal Moving Services",
+            description: "Umzugsdienstleistungen"
             },
             project2: {
-                title: "Spektrum Magazin",
-                description: "Lifestyle- und Kulturmagazin"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "Konferenz der Hilfsorganisationen im Ministerium (AIM)"
             },
             project3: {
-                title: "Butter Bäckerei",
-                description: "Hausgemachte Bäckerei"
+            title: "Divinity Financial",
+            description: "Finanzagentur"
             },
             project4: {
-                title: "Advantage Videosystem",
-                description: "Produkt und Information"
+            title: "Home Garden 101",
+            description: "Landschafts- und Außenbereichsdienstleistungen"
             },
             project5: {
-                title: "iLead-Worldwide",
-                description: "Marketingagentur"
+            title: "Spektrum Magazine",
+            description: "Magazin für Lifestyle und Kultur"
             },
             project6: {
-                title: "Happy Dot Box",
-                description: "Luxus-Schönheitsprodukte"
+            title: "Butter Bakery",
+            description: "Hausgemachte Bäckerei"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "Produkte und Informationen"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "Marketingagentur"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "Luxuriöse Schönheitsprodukte"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "Hausgemachtes Popcorn"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "Bekleidungsgeschäft"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "Videografen-Portfolio"
             },
             detail: {
                 role: "Rolle",
@@ -513,31 +609,55 @@ const translations = {
             description: "Sono Brandon, uno sviluppatore web full-stack che vive secondo il motto “Trasforma i sogni in realtà con il codice”. Il mio percorso è iniziato presso The Art Institute of California – North Hollywood, dove ho conseguito una laurea in Web Design e Media Interattivi. Quello che è iniziato come un interesse per l'arte e la tecnologia si è evoluto in una passione per la creazione di esperienze digitali che combinano creatività e funzionalità. Guidato da un'ispirazione superiore, affronto ogni progetto con comprensione, adattabilità e la volontà di fare un passo in più. Per me, il codice non è solo logica, è una tela dove l'immaginazione incontra lo scopo."
         },
         work: {
-            title: "I miei lavori",
-            subtitle: "Una vetrina dei miei progetti recenti",
+            title: "Il Mio Lavoro",
+            subtitle: "Una selezione dei miei progetti recenti",
             project1: {
-                title: "Giardino in casa 101",
-                description: "Servizio di paesaggistica ed esterni"
+            title: "K&H Internal Moving Services",
+            description: "Servizi di Trasloco"
             },
             project2: {
-                title: "Rivista Spektrum",
-                description: "Rivista di stile di vita e cultura"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "Convegno degli Ausiliari del Ministero (AIM)"
             },
             project3: {
-                title: "Pasticceria Butter",
-                description: "Panetteria fatta in casa"
+            title: "Divinity Financial",
+            description: "Agenzia Finanziaria"
             },
             project4: {
-                title: "Sistema Video Advantage",
-                description: "Prodotto e informazioni"
+            title: "Home Garden 101",
+            description: "Servizi di Giardinaggio e Spazi Esterni"
             },
             project5: {
-                title: "iLead-Worldwide",
-                description: "Agenzia di marketing"
+            title: "Spektrum Magazine",
+            description: "Rivista di Stile di Vita e Cultura"
             },
             project6: {
-                title: "Happy Dot Box",
-                description: "Prodotti di bellezza di lusso"
+            title: "Butter Bakery",
+            description: "Panetteria Casalinga"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "Prodotti e Informazioni"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "Agenzia di Marketing"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "Prodotti di Bellezza di Lusso"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "Popcorn Fatto in Casa"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "Negozio di Abbigliamento"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "Portfolio di Videografo"
             },
             detail: {
                 role: "Ruolo",
@@ -636,30 +756,54 @@ const translations = {
         },
         work: {
             title: "Meu Trabalho",
-            subtitle: "Uma vitrine dos meus projetos recentes",
+            subtitle: "Uma seleção dos meus projetos recentes",
             project1: {
-                title: "Jardim em Casa 101",
-                description: "Serviço de Paisagismo e Exteriores"
+            title: "K&H Internal Moving Services",
+            description: "Serviços de Mudança"
             },
             project2: {
-                title: "Revista Spektrum",
-                description: "Revista de Estilo de Vida e Cultura"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "Convenção dos Auxiliares no Ministério (AIM)"
             },
             project3: {
-                title: "Padaria Butter",
-                description: "Padaria Caseira"
+            title: "Divinity Financial",
+            description: "Agência Financeira"
             },
             project4: {
-                title: "Sistema de Vídeo Advantage",
-                description: "Produto e Informação"
+            title: "Home Garden 101",
+            description: "Serviços de Paisagismo e Áreas Externas"
             },
             project5: {
-                title: "iLead-Worldwide",
-                description: "Agência de Marketing"
+            title: "Spektrum Magazine",
+            description: "Revista de Estilo de Vida e Cultura"
             },
             project6: {
-                title: "Caixa de Pontos Felizes",
-                description: "Produtos de Beleza de Luxo"
+            title: "Butter Bakery",
+            description: "Padaria Caseira"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "Produtos e Informações"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "Agência de Marketing"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "Produtos de Beleza de Luxo"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "Pipoca Caseira"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "Loja de Roupas e Vestuário"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "Portfólio de Videógrafo"
             },
             detail: {
                 role: "Função",
@@ -757,31 +901,55 @@ const translations = {
             description: "Я Брэндон, веб-разработчик полного цикла, живущий по девизу «Превращайте мечты в реальность с кодом». Мое путешествие началось в Институте искусств Калифорнии – Северный Голливуд, где я получил степень бакалавра в области веб-дизайна и интерактивных медиа. То, что началось как интерес к искусству и технологиям, переросло в страсть к созданию цифровых впечатлений, сочетающих креативность и функциональность. Вдохновляемый высшими силами, я подхожу к каждому проекту с пониманием, адаптивностью и стремлением сделать больше. Для меня код – это не просто логика, это холст, где воображение встречается с целью."
         },
         work: {
-            title: "Мои работы",
-            subtitle: "Витрина моих последних проектов",
+            title: "Мои Работы",
+            subtitle: "Подборка моих недавних проектов",
             project1: {
-                title: "Домашний сад 101",
-                description: "Услуги по ландшафтному дизайну и благоустройству"
+            title: "K&H Internal Moving Services",
+            description: "Услуги по Переезду"
             },
             project2: {
-                title: "Журнал Спектрум",
-                description: "Журнал о стиле жизни и культуре"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "Конференция Вспомогательных Служений в Министерстве (AIM)"
             },
             project3: {
-                title: "Пекарня Butter",
-                description: "Домашняя пекарня"
+            title: "Divinity Financial",
+            description: "Финансовое Агентство"
             },
             project4: {
-                title: "Видеосистема Advantage",
-                description: "Продукт и информация"
+            title: "Home Garden 101",
+            description: "Услуги по Ландшафтному Дизайну и Обустройству Территории"
             },
             project5: {
-                title: "iLead-Worldwide",
-                description: "Маркетинговое агентство"
+            title: "Spektrum Magazine",
+            description: "Журнал о Стиле Жизни и Культуре"
             },
             project6: {
-                title: "Happy Dot Box",
-                description: "Роскошные косметические продукты"
+            title: "Butter Bakery",
+            description: "Домашняя Пекарня"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "Продукты и Информация"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "Маркетинговое Агентство"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "Роскошные Товары для Красоты"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "Домашний Попкорн"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "Магазин Одежды"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "Портфолио Видеографа"
             },
             detail: {
                 role: "Роль",
@@ -879,31 +1047,55 @@ const translations = {
             description: "私はブランドン、フルスタックウェブ開発者で、「コードで夢を現実に」というモットーを掲げています。私の旅はカリフォルニア州ノースハリウッドのアート・インスティテュートで始まり、ウェブデザインとインタラクティブメディアの学士号を取得しました。芸術とテクノロジーへの興味から始まったものが、創造性と機能性を融合させたデジタル体験を創り出す情熱へと進化しました。最高の導きのもと、理解力、適応力、そして一歩先を行く意欲を持って各プロジェクトに取り組んでいます。私にとって、コードは単なる論理ではなく、想像力と目的が出会うキャンバスです。"
         },
         work: {
-            title: "私の作品",
-            subtitle: "最近のプロジェクトのショーケース",
+            title: "私の仕事",
+            subtitle: "最近のプロジェクトをご紹介します",
             project1: {
-                title: "ホームガーデン101",
-                description: "造園および屋外サービス"
+            title: "K&H Internal Moving Services",
+            description: "引っ越しサービス"
             },
             project2: {
-                title: "スペクトラムマガジン",
-                description: "ライフスタイルと文化の雑誌"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "ミニストリー補助部門（AIM）大会"
             },
             project3: {
-                title: "バターベーカリー",
-                description: "自家製ベーカリー"
+            title: "Divinity Financial",
+            description: "金融代理店"
             },
             project4: {
-                title: "アドバンテージビデオシステム",
-                description: "製品と情報"
+            title: "Home Garden 101",
+            description: "造園・屋外サービス"
             },
             project5: {
-                title: "iLead-Worldwide",
-                description: "マーケティングエージェンシー"
+            title: "Spektrum Magazine",
+            description: "ライフスタイル・カルチャー雑誌"
             },
             project6: {
-                title: "ハッピードットボックス",
-                description: "高級美容製品"
+            title: "Butter Bakery",
+            description: "手作りベーカリー"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "製品・情報"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "マーケティング代理店"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "高級美容製品"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "手作りポップコーン"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "アパレルショップ"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "ビデオグラファーのポートフォリオ"
             },
             detail: {
                 role: "役割",
@@ -1001,31 +1193,55 @@ const translations = {
             description: "저는 '코드를 통해 꿈을 현실로'라는 모토를 따라 살아가는 풀스택 웹 개발자 브랜든입니다. 제 여정은 캘리포니아 노스 할리우드의 아트 인스티튜트에서 시작되었으며, 그곳에서 웹 디자인 및 인터랙티브 미디어 학사 학위를 취득했습니다. 예술과 기술에 대한 관심에서 시작된 것이 창의성과 기능성을 결합한 디지털 경험을 만드는 열정으로 발전했습니다. 최고의 인도에 따라, 저는 이해심, 적응력, 그리고 한 걸음 더 나아가려는 추진력으로 모든 프로젝트에 접근합니다. 저에게 코드는 단순한 논리가 아니라 상상력과 목적이 만나는 캔버스입니다."
         },
         work: {
-            title: "내 작업",
-            subtitle: "최근 프로젝트 쇼케이스",
+            title: "나의 작업",
+            subtitle: "최근 프로젝트를 소개합니다",
             project1: {
-                title: "홈 가든 101",
-                description: "조경 및 야외 서비스"
+            title: "K&H Internal Moving Services",
+            description: "이사 서비스"
             },
             project2: {
-                title: "스펙트럼 매거진",
-                description: "라이프스타일과 문화 잡지"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "사역 보조부문(AIM) 컨벤션"
             },
             project3: {
-                title: "버터 베이커리",
-                description: "수제 베이커리"
+            title: "Divinity Financial",
+            description: "금융 에이전시"
             },
             project4: {
-                title: "어드밴티지 비디오 시스템",
-                description: "제품 및 정보"
+            title: "Home Garden 101",
+            description: "조경 및 야외 서비스"
             },
             project5: {
-                title: "iLead-Worldwide",
-                description: "마케팅 에이전시"
+            title: "Spektrum Magazine",
+            description: "라이프스타일 및 문화 잡지"
             },
             project6: {
-                title: "해피 닷 박스",
-                description: "고급 뷰티 제품"
+            title: "Butter Bakery",
+            description: "홈메이드 베이커리"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "제품 및 정보"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "마케팅 에이전시"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "럭셔리 뷰티 제품"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "홈메이드 팝콘"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "의류 매장"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "비디오그래퍼 포트폴리오"
             },
             detail: {
                 role: "역할",
@@ -1124,30 +1340,54 @@ const translations = {
         },
         work: {
             title: "我的作品",
-            subtitle: "近期项目的展示",
+            subtitle: "展示我近期的项目",
             project1: {
-                title: "家庭花园101",
-                description: "园林绿化与户外服务"
+            title: "K&H Internal Moving Services",
+            description: "搬家服务"
             },
             project2: {
-                title: "光谱杂志",
-                description: "生活方式与文化杂志"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "事工辅助部门（AIM）大会"
             },
             project3: {
-                title: "黄油面包店",
-                description: "家庭烘焙"
+            title: "Divinity Financial",
+            description: "金融机构"
             },
             project4: {
-                title: "优势视频系统",
-                description: "产品与信息"
+            title: "Home Garden 101",
+            description: "园林绿化与户外服务"
             },
             project5: {
-                title: "iLead-Worldwide",
-                description: "营销机构"
+            title: "Spektrum Magazine",
+            description: "生活方式与文化杂志"
             },
             project6: {
-                title: "快乐点盒",
-                description: "奢华美容产品"
+            title: "Butter Bakery",
+            description: "家庭烘焙店"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "产品与信息"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "营销机构"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "奢华美容产品"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "自制爆米花"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "服装店"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "摄像师作品集"
             },
             detail: {
                 role: "角色",
@@ -1248,28 +1488,52 @@ const translations = {
             title: "My Werk",
             subtitle: "’n Vertoonvenster van my onlangse projekte",
             project1: {
-                title: "Tuis Tuin 101",
-                description: "Landskap en Buitelugdiens"
+            title: "K&H Internal Moving Services",
+            description: "Verhuisingsdienste"
             },
             project2: {
-                title: "Spektrum Tydskrif",
-                description: "Leefstyl- en Kultuurtydskrif"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "Konvensie van Hulpdienste in die Bediening (AIM)"
             },
             project3: {
-                title: "Botter Bakkery",
-                description: "Tuisgemaakte Bakkery"
+            title: "Divinity Financial",
+            description: "Finansiële Agentskap"
             },
             project4: {
-                title: "Advantage Video Stelsel",
-                description: "Produk en Inligting"
+            title: "Home Garden 101",
+            description: "Landskap- en Buitelugdienste"
             },
             project5: {
-                title: "iLead-Wêreldwyd",
-                description: "Bemarkingsagentskap"
+            title: "Spektrum Magazine",
+            description: "Lewenstyl- en Kultuurtydskrif"
             },
             project6: {
-                title: "Gelukkige Puntboks",
-                description: "Luukse Skoonheidsprodukte"
+            title: "Butter Bakery",
+            description: "Tuisgebakte Bakkery"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "Produkte en Inligting"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "Bemarkingsagentskap"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "Luukse Skoonheidsprodukte"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "Tuisgemaakte Springmielies"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "Klere- en Kledingwinkel"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "Videograaf-portefeulje"
             },
             detail: {
                 role: "Rol",
@@ -1370,28 +1634,52 @@ const translations = {
             title: "העבודות שלי",
             subtitle: "תצוגה של הפרויקטים האחרונים שלי",
             project1: {
-                title: "גינה ביתית 101",
-                description: "שירותי גינון וחוץ"
+            title: "K&H Internal Moving Services",
+            description: "שירותי הובלה"
             },
             project2: {
-                title: "מגזין ספקטרום",
-                description: "מגזין סגנון חיים ותרבות"
+            title: "Californian Southwest Jurisdiction (CSJ)",
+            description: "כנס עזרי השירות במשרד (AIM)"
             },
             project3: {
-                title: "מאפיית חמאה",
-                description: "מאפייה ביתית"
+            title: "Divinity Financial",
+            description: "סוכנות פיננסית"
             },
             project4: {
-                title: "מערכת וידאו יתרון",
-                description: "מוצר ומידע"
+            title: "Home Garden 101",
+            description: "שירותי גינון וחוץ"
             },
             project5: {
-                title: "iLead-Worldwide",
-                description: "סוכנות שיווק"
+            title: "Spektrum Magazine",
+            description: "מגזין סגנון חיים ותרבות"
             },
             project6: {
-                title: "תיבת נקודות שמחה",
-                description: "מוצרי יופי יוקרתיים"
+            title: "Butter Bakery",
+            description: "מאפייה ביתית"
+            },
+            project7: {
+            title: "Advantage Video System",
+            description: "מוצרים ומידע"
+            },
+            project8: {
+            title: "iLead-Worldwide",
+            description: "סוכנות שיווק"
+            },
+            project9: {
+            title: "Happy Dot Box",
+            description: "מוצרי יופי יוקרתיים"
+            },
+            project10: {
+            title: "Love N' Popcorn",
+            description: "פופקורן תוצרת בית"
+            },
+            project11: {
+            title: "Never Underestimate Brand",
+            description: "חנות בגדים ואופנה"
+            },
+            project12: {
+            title: "The Gee Designs",
+            description: "תיק עבודות של צלם וידאו"
             },
             detail: {
                 role: "תפקיד",
